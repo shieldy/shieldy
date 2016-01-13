@@ -1,24 +1,16 @@
 ---
-title: it lessdons are super cool
+title: Blog mistakes
 layout: post
 author: william.shield
 permalink: /it-lessdons-are-super-cool/
 source-id: 1MT_ZSaVYNxx-vG4RK2rnk-nqLWDsuzHtGsNwDZQsdvM
 published: true
 ---
-IT lessons are super cool  because what I'm doing now, is exactly what I the lessons taught me [how to make your own web page] 
+Last time, we talked about how to make your own Blog. This time we are going to talk about common mistakes in the way that people sometimes put things on the internet or social media. Also the way things are sometimes written badly, such as use of inappropriate words.
 
-You just need to floow these easy steps:
+Some people think that anything they said on social media when they were younger will be ignored. Not true, it has always been saved somewhere. It is also a really bad idea to make "comments" which could be seen as wrong, as you could be identified as the person who wrote them. Recently a lady who had used Twitter to post a very rude comment about someone, had to quit her job in the Police, working with young victims, because of the shame when she was identified. Also, even if you have put private settings on your account, hackers can break the security, and mean that it may not be private at all. 
 
- sign up to github and from there you can get into google docs and add on gabriel [an add on]  add on gabriel.then go to start publishing.under your github repos is your  username.github.io click the arrow next to it tick post and post only,then publish[should come up with succesfully published at the bottom]
-
-you'll find your websit at 
-
-your username.github.io
-
-On the Thursday before the end of term I, and a few of my friends, went to compete in the "Lego Robotics" challenge. It was a great experience, with top programmers guiding us around our various events. One of them is even working on a fully functioning robotic arm. We started the day off with a few practices, and then went into our first ever game of FLL (First Lego League). We did OK. Then we had a few more practices, and then some of my friends went off to do a speech on what we had been doing to promote the useage of bins around our school. Then we had our second event, which I took part in - we did even better than the first time, and got a total of 145 points. Then 3 members of our team made a speech on the designing of the robot, after which we had our final game. This one went pear-shaped, incurring all the possible penalties, but despite that we had lots of fun. Finally we went into the team-building game, where we split into two, on opposite sides of a board. One side had to build a tower out of the 30-odd bricks that they had. Then, using the same set of bricks, we had to listen to their instructions so we could build an identical tower, without having seen theirs, or them seeing our attempt. It was really fun.
-
-to find out more search    fll trash treck
+When people say the word "gay", some kids think it is OK to use it as a term of abuse. They might write that someone in their class that they did not like “was really gay” - a pretty lame insult, as well as being homophobic. They also find it funny when people use that word normally. It does not just mean a man who loves a man, it also can also mean if someone is happy or cheerful, such as “Sunday's child is bonny, blythe, good and gay.”  As some kids unlikely to change, it might be better just to use a different word instead.
 
  
 
