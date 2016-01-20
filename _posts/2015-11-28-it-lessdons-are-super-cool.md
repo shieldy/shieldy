@@ -12,5 +12,9 @@ Some people think that anything they said on social media when they were younger
 
 When people say the word "gay", some kids think it is OK to use it as a term of abuse. They might write that someone in their class that they did not like “was really gay” - a pretty lame insult, as well as being homophobic. They also find it funny when people use that word normally. It does not just mean a man who loves a man, it also can also mean if someone is happy or cheerful, such as “Sunday's child is bonny, blythe, good and gay.”  As some kids unlikely to change, it might be better just to use a different word instead.
 
+In this Blog we are going to be talking about what "media" is. There are many types of media -  radio, TV are types of media where the information come to the user. However nowadays there is much more two way communication using different methods, generally on the internet and called “Social Media”. Platforms such as Facebook and Twitter are the main ones at the moment. These allow people to share what they are doing, but can also be a bit dangerous as others can post bad comments about them.
+
+Adverts or commercials are found on all types of media, and are often what raises the money to fund that media. This is what is meant by "Commercial Radio". Adverts can be quite clever, short films, that get your interest, but also try an persuade you to buy the product. Some are very direct and say why their product is really good, but others are more subtle, being funny to get you to like the commercial, and hopefully think that the product is cool too. Often it is not really clear what the product is until the end of the advert.
+
  
 
