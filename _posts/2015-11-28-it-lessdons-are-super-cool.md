@@ -16,5 +16,9 @@ In this Blog we are going to be talking about what "media" is. There are many ty
 
 Adverts or commercials are found on all types of media, and are often what raises the money to fund that media. This is what is meant by "Commercial Radio". Adverts can be quite clever, short films, that get your interest, but also try an persuade you to buy the product. Some are very direct and say why their product is really good, but others are more subtle, being funny to get you to like the commercial, and hopefully think that the product is cool too. Often it is not really clear what the product is until the end of the advert.
 
+In my lesson we were talking about how mcdonald's uses adverts to mislead you we watched a clip with a lady who was telling us about how they do the ads and how every thing in the ad is in the burger only concealed in the bun.they may have just done it for trust or a reason only known to them. 
+
+ads can be misleading so our teacher asked us questions on it. the turnout was that lots of us either look at an ad and want something we didn't want before or when you get the thing it's nothing like the ad. for example if a robotic dog says it can do a backflip then fails at it then breaks its just annoying.
+
  
 
