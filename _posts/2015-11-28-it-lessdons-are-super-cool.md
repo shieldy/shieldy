@@ -20,5 +20,19 @@ In my lesson we were talking about how mcdonald's uses adverts to mislead you we
 
 ads can be misleading so our teacher asked us questions on it. the turnout was that lots of us either look at an ad and want something we didn't want before or when you get the thing it's nothing like the ad. for example if a robotic dog says it can do a backflip then fails at it then breaks its just annoying.
 
+This blog is going to be about my identity map which i made as homework.I felt a bit edgy about showing my class it but that soon wore off. when i went round i got a better sense of what my friends were like. some surprises were that people were bananagrams champion
+
+**Glossary of malicious terms**
+
+**Virus ** - a piece of computer code that can corrupt a system or destroy data
+
+**Worm** - a computer worm is code that can copy itself so it can spread to spread to other computers.
+
+**Trojan **- this is software that appears innocent, but when accessed secretly downloads a virus or some other form of malware.
+
+**botnet/zombienet** - a botnet is when lots of computers that have been infected with the same virus so it can bombard another computer or server with spam or requests to it fails.
+
+**Malware** - this refers to any form of bad software designed to act in a malicious way.
+
  
 
