@@ -9,7 +9,7 @@ name: Will's blog
 description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.google.co.uk/search?q=bikes&rlz=1CASMAC_enGB658GB659&espv=2&biw=1680&bih=939&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjUweWVsJfKAhVLuhoKHWzcAtIQ_AUIBigB#imgrc=pnDK5yc0
+avatar: http://www.freeiconspng.com/uploads/face-avatar-png-14.png
 
 #
 # Flags below are optional
@@ -18,15 +18,15 @@ avatar: https://www.google.co.uk/search?q=bikes&rlz=1CASMAC_enGB658GB659&espv=2&
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: william.shield@challoners.org
+  email: 
   facebook:
   flickr:
-  github: shieldy.github.io
+  github: 
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -53,8 +53,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: redcarpet
-highlighter: pygments
+Kramdown: 
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
