@@ -1,5 +1,5 @@
 ---
-title: Copy of wills first y8 blog.
+title: Sixth lesson
 layout: post
 author: william.shield
 permalink: /copy-of-wills-first-y8-blog./
