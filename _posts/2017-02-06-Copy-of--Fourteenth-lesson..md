@@ -1,5 +1,5 @@
 ---
-title: Copy of  Fourteenth lesson.
+title: Fithteenth lesson.
 layout: post
 author: william.shield
 permalink: /copy-of--fourteenth-lesson./
