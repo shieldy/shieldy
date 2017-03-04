@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting </td>
-    <td></td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td></td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
