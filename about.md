@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I go to a Grammar schooland i love going skiing and especially going to mountain bike races with my dad on the weekend.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Sorry not avaliable. I am too secretive
 
 ### Contact me
 
