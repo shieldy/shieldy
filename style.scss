@@ -19,6 +19,9 @@ html {
 
 body {
 	background-image: URL("http://i.huffpost.com/gen/1365606/images/o-FIRST-DAY-OF-FALL-facebook.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
   font: 18px/1.4 $helvetica;
   color: #2200cc;
 }
