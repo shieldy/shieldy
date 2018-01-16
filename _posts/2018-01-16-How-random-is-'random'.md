@@ -10,3 +10,4 @@ This lesson we were doing 'procedures' which is where you input a number by call
 
 This blog i hope to have embed a repl.it ai i am working on, it's terrible but fun. During next lesson i hope to have added some more to it and to have changed my blogs colours a bit. So far i can understand most of the code but i am not sure how long this will last.
 
+<iframe height="400px" width="100%" src="https://repl.it/@williamshield/LuckyAggravatingBassethound?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
