@@ -12,3 +12,5 @@ In this week's lesson we were creating an online shop that would make it as easy
 
 I think I worked really productively as I got it all done and understood it however next time I might want to remember the actual steps with code.
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5NQyqt2ceONt6T_KH4780VZI_MHH-2Lxm8MLNJ54a-kxAmRgYRBbMhMqaoF_qwndqiiSrZVEdjZue/pubhtml?widget=true&amp;headers=false"></iframe>
+
